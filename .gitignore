@@ -1,2 +1,4 @@
 .DS_Store
+.ipynb_checkpoints
 201908-citibike-tripdata.csv
+tripdata.csv
