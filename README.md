@@ -56,3 +56,7 @@ From the visualization, Here are some conclusions:
 * The top start locations and ending locations are vastly similar, which means said locations are most likely the users' workplaces or homes.
 * Non-subscription users of all genders seem to prefer to ride during weekends, and of these users unknown gender is the largest group.
 * Non-subscription users are biking for leisure during the daylight on weekends.
+
+### Additional Recommendations
+* Visualization on users' age would show if most users are indeed travelling for work. For example, a person of 70 years or older would most likely not be commuting to work.
+* It would be interesting to see a visualization of data relationship between age and travel duration. Would older people simply ride for shorter durations? Or would they travel longer since they are more likely to ride for leisure than work commute?
